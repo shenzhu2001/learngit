@@ -1,2 +1,3 @@
 Git is free
 free is Git
+it is cool
